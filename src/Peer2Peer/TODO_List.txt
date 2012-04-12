@@ -1,0 +1,5 @@
+﻿1. Make possible to have a number of the peers on the same machine. (+)
+2. Implement support for long packets. (+)
+3. Implement support for the packet signing. (+)
+4. Every packet from the peer must be indexed and validated by the receiver to prevent the packets doubling. (+)
+5. Implement heart beat.
